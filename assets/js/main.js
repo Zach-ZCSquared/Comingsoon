@@ -36,7 +36,7 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/bg01.jpg': 'center',
+							'images/1910_BP_Types_Network_Security_720x356_v1_BT.png': 'center',
 							'images/bg02.jpg': 'center',
 							'images/bg03.jpg': 'center'
 						},
