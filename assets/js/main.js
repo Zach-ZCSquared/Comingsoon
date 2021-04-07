@@ -36,9 +36,10 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/images/1910_BP_Types_Network_Security_720x356_v1_BT.png': 'center',
+							'images/images/images/istockphoto-1223790456-612x612.jpg': 'center',
 							'images/bg02.jpg': 'center',
 							'images/1_hdWsxH4c-RkFshe_D1uMGQ.jpeg': 'center'
+							'images/images/istockphoto-1259094551-612x612.jpg': 'center'
 						},
 
 					// Delay.
